@@ -1,6 +1,9 @@
 # MongoDB Introduction
 MongoDB is basically first letter of MERN Stack development project.
 
+MongoDB is NoSQL database, stores information in collection and documents
+//![MongoDB Collection,Document and Field](https://raw.githubusercontent.com/jitendrasoni/MERNStack/main/References/images/MERN-MongoDB-Collection-Document-Field-Definatin.png)
+
 # MongoDB Setup (ATLAS CLOUD DATABASE)
 it's the fasterst and easiest way to setup the MongoDB, Login into MongoDB and setup a cluster
 
