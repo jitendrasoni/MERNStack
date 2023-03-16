@@ -19,5 +19,5 @@ it's the fasterst and easiest way to setup the MongoDB, Login into MongoDB and s
 
 4.	Load Sample Data 
 
-//![Load Sample Data](https://raw.githubusercontent.com/jitendrasoni/MERNStack/main/Setup/MongoDB/images/Setup%20First%20step.png)
+//![Load Sample Data](https://github.com/jitendrasoni/MERNStack/blob/main/Setup/MongoDB/images/06%20MongoDB%20Setup%20Load%20Sample%20Data.png)
 
