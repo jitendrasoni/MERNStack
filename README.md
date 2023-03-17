@@ -15,12 +15,7 @@ MERN stack is a collection of technologies that enables faster application devel
 
 # Create the movie data access object
 Create the DAO to access the databaase object.
-Create a dAO fold
+Create a DAO https://github.com/jitendrasoni/MERNStack/blob/main/Backend/dao/moviesDAO.js and https://github.com/jitendrasoni/MERNStack/blob/main/Backend/dao/reviewsDAO.js
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+# Create movies controller
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
