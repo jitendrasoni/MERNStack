@@ -54,7 +54,8 @@ npm install express cores mongodb dotenv
 
 This package automatically detect code changes and restart the Node server.
 
-
+4. Run the server 
+//![Run Server](https://raw.githubusercontent.com/jitendrasoni/MERNStack/main/Setup/NODE_JS/BackendServer/image/0012%20Allow%20MongoDB%20Get%20connection%20String.png)
 
 # Learning
 
