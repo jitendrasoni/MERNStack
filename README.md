@@ -23,3 +23,5 @@ https://github.com/jitendrasoni/MERNStack/blob/main/Backend/api/reviews.controll
 
 # Testing Backend API
 http://localhost:5000/api/v1/movies?title=dragon
+
+//![Verify Data](https://raw.githubusercontent.com/jitendrasoni/MERNStack/main/Setup/NODE_JS/BackendServer/image/004%20Verify%20Controller%20MongoDB%20Get%20connection%20String.png)
