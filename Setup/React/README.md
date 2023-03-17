@@ -9,3 +9,4 @@ Node.js will be the express backend is basically first letter of MERN Stack deve
 
 the name should be the lower case, otherwise you will get an error
 
+![creation of new react app in progress](https://github.com/jitendrasoni/MERNStack/blob/main/Setup/React/image/001%20InProgress.png?raw=true)
