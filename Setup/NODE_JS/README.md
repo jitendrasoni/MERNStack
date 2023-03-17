@@ -57,6 +57,10 @@ This package automatically detect code changes and restart the Node server.
 4. Run the server 
 //![Run Server](https://raw.githubusercontent.com/jitendrasoni/MERNStack/main/Setup/NODE_JS/BackendServer/image/0012%20Allow%20MongoDB%20Get%20connection%20String.png)
 
+Final Result
+
+//![Final Result](https://raw.githubusercontent.com/jitendrasoni/MERNStack/main/Setup/NODE_JS/BackendServer/image/003%20Result%20MongoDB%20Get%20connection%20String.png)
+
 # Learning
 
 1. I made a few mistakes, first was that when you run the commmand nodemon server, it should pick the index.js file from the root, I made a wrong file name, instead of index.js I kept it as index,js
