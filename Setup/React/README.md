@@ -41,3 +41,14 @@ We suggest that you begin by typing:
 Happy hacking!
 `
 ![Installation completed](https://raw.githubusercontent.com/jitendrasoni/MERNStack/main/Setup/React/image/002%20React%20Application%20completed.png)
+
+2. Defautl react folder structure after creating the first app
+
+//imaga
+
+It has a node_modules, public folder, src folder
+go into the front end folder and do npm start
+
+Here is the first react app running on port 3000
+
+
