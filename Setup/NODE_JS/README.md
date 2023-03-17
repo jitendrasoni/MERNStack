@@ -56,4 +56,15 @@ This package automatically detect code changes and restart the Node server.
 
 
 
+# Learning
+
+1. I made a few mistakes, first was that when you run the commmand nodemon server, it should pick the index.js file from the root, I made a wrong file name, instead of index.js I kept it as index,js
+
+2. Second mistakes, please don't use @ in the password, because it will not work, the environment variable connection string is the below format
+MOVIEREVIEWS_DB_URI=mongodb+srv://jitusonijk:Impossible2050@merncluster.uwytm9h.mongodb.net/sample_mflix?retryWrites=true&w=majority
+
+
+
+
+
 

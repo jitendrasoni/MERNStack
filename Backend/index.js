@@ -8,7 +8,7 @@ import dotenv from "dotenv"                         // declared in package.json
 async function main(){                              // create async function main() to connect to mongoDB cluster
                                                     // and call functions that access the database
      dotenv.config()                                // load the environment variables from .env                          
-    
+     console.log('001 is')   
 const client = new mongodb.MongoClient(             // create instance of MongoClient and pass URI retrieved from .env
 process.env.MOVIEREVIEWS_DB_URI,
     {useNewUrlParser: true, useUnifiedTopology:true}    // options passed to the instantiated MongoClient
@@ -17,7 +17,7 @@ process.env.MOVIEREVIEWS_DB_URI,
      try {
         // Connect to the MongoDB cluster
         await client.connect()                      // now wait until a connection to the database is made
-	
+        console.log('001 is')
  
         app.listen(port, () =>{                     // if connected with no issues the web server is started
             console.log('server is running on port:'+port);        // and displays this message
