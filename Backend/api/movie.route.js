@@ -1,4 +1,5 @@
 
+
 // this code file will contains routes that different people can go to.
 
 import express from 'express'                                       // needed middleware installed in package.json
@@ -12,7 +13,7 @@ const router = express.Router()                                     // get acces
 
 router.route('/').get(MoviesController.apiGetMovies)                // first route available in project from 
                                                                     // MoviesController class and apiGetMovies method
-                                                                    // will be called when there is a request for the URL
+router.route("/id:id").get(MoviesController.getMovieById)                                                                // will be called when there is a request for the URL
                                                                     // localhost:5050/api/v1/movies
 
                                                                     // next route available in project which will handle

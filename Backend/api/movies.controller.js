@@ -1,3 +1,4 @@
+import { ObjectId } from 'mongodb'
 import MoviesDAO from '../dao/moviesDAO.js'                                     // import the dao (data access object)
  
 export default class MoviesController{
@@ -33,5 +34,38 @@ export default class MoviesController{
             total_results: totalNumMovies,
         }
         res.json(response)
+    }
+
+    static async getMovieById(id){                                    // call apiGetMovies 
+ try {
+
+    console.log('calling is')
+    return await movies.aggregate(
+[
+    {
+        $match: {
+            _id: new ObjectId (id),
+        }
+    },
+    {$lookup:
+    {
+        from: 'reviews',
+        localField:'id',
+        foreignField:'movie_id',
+        as:'reviews'
+    }
+}
+]
+
+    ).next()
+    
+ } 
+ catch (e) {
+
+    console.error('somthing wrong:  ${e}')
+    throw e
+    
+ }
+
     }
 }
