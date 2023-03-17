@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "mernstack development  poc",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo"
   },

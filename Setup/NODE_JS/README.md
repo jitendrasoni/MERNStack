@@ -48,6 +48,11 @@ npm install express cores mongodb dotenv
 
    ![express dependencies in package.json](https://raw.githubusercontent.com/jitendrasoni/MERNStack/main/Setup/NODE_JS/images/007%20%20Installatino%20folder%20has%20the%20express%20folder.png)
 
+3.	Setup nodemon
+
+//`npm install -g nodemon`
+
+This package automatically detect code changes and restart the Node server.
 
 
 
