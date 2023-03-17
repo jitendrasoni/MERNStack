@@ -40,4 +40,4 @@ We suggest that you begin by typing:
 
 Happy hacking!
 `
-
+![Installation completed](https://raw.githubusercontent.com/jitendrasoni/MERNStack/main/Setup/React/image/002%20React%20Application%20completed.png)
