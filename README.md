@@ -18,4 +18,8 @@ Create the DAO to access the databaase object.
 Create a DAO https://github.com/jitendrasoni/MERNStack/blob/main/Backend/dao/moviesDAO.js and https://github.com/jitendrasoni/MERNStack/blob/main/Backend/dao/reviewsDAO.js
 
 # Create movies controller
+https://github.com/jitendrasoni/MERNStack/blob/main/Backend/api/movies.controller.js
+https://github.com/jitendrasoni/MERNStack/blob/main/Backend/api/reviews.controller.js
 
+# Testing Backend API
+http://localhost:5000/api/v1/movies?title=dragon
