@@ -44,11 +44,13 @@ Happy hacking!
 
 2. Defautl react folder structure after creating the first app
 
-//imaga
+//![Default React App](https://raw.githubusercontent.com/jitendrasoni/MERNStack/main/Setup/React/image/002%20React%20Application%20completed.png)
 
 It has a node_modules, public folder, src folder
 go into the front end folder and do npm start
 
 Here is the first react app running on port 3000
+
+//![Default running react app](https://raw.githubusercontent.com/jitendrasoni/MERNStack/main/Setup/React/image/003%20Start%20React%20App.png)
 
 
