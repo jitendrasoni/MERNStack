@@ -13,8 +13,9 @@ MERN stack is a collection of technologies that enables faster application devel
 3.	R-  Reach Setup
 4.	N-  Node setup
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+# Create the movie data access object
+Create the DAO to access the databaase object.
+Create a dAO fold
 
 # Contribute
 TODO: Explain how other users and developers can contribute to make your code better. 
