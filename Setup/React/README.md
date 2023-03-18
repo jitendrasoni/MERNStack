@@ -7,6 +7,8 @@ Node.js will be the express backend is basically first letter of MERN Stack deve
 
 `npx create-react-app frontend`
 
+why use npx, as it' required one time base setup
+
 the name should be the lower case, otherwise you will get an error
 
 ![creation of new react app in progress](https://github.com/jitendrasoni/MERNStack/blob/main/Setup/React/image/001%20InProgress.png?raw=true)
@@ -44,8 +46,6 @@ Happy hacking!
 
 2. Defautl react folder structure after creating the first app
 
-//![Default React App](https://raw.githubusercontent.com/jitendrasoni/MERNStack/main/Setup/React/image/002%20React%20Application%20completed.png)
-
 It has a node_modules, public folder, src folder
 go into the front end folder and do npm start
 
@@ -54,3 +54,46 @@ Here is the first react app running on port 3000
 //![Default running react app](https://raw.githubusercontent.com/jitendrasoni/MERNStack/main/Setup/React/image/003%20Start%20React%20App.png)
 
 
+All react code are under the src folder and index.js is the main entry point
+React is the library for creating views, ReactDOM is the library used to render the UI in the browser
+
+
+App.js is the main React code that we display on the page.
+
+//`import logo from './logo.svg';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
+    </div>
+  );
+}
+
+export default App;`
+
+In the above example, ClassName is the property instead of Class, because Class is a reserverd word in the Javascript.
+
+A component can be a functional or class based.
+
+3. Add React bootstrap framework.
+
+run the below command 
+
+install react-bootstrap bootstrap
+
+//![alt](https://)
