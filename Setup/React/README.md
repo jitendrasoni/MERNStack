@@ -102,4 +102,9 @@ install react-bootstrap bootstrap
 
 Install react-router-dom to route different URLs to different pages in our React app. The react Router library interprets a browser URL as an instruction to navigate to varous components.
 
-//`npm install --save react-router-demo@5.2.0`
+`npm install --save react-router-demo@5.2.0`
+
+![Install react rounter](https://github.com/jitendrasoni/MERNStack/blob/main/Setup/React/image/005%20install%20React%20Routers.png?raw=true)
+
+
+![Install react rounter references](https://github.com/jitendrasoni/MERNStack/blob/main/Setup/React/image/006%20Package%20Information.png?raw=true)
