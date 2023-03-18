@@ -96,4 +96,10 @@ run the below command
 
 install react-bootstrap bootstrap
 
-//![alt](https://)
+![alt](https://raw.githubusercontent.com/jitendrasoni/MERNStack/main/Setup/React/image/004%20Install%20bootstrap.png)
+
+4. Add React-Router-DOM
+
+Install react-router-dom to route different URLs to different pages in our React app. The react Router library interprets a browser URL as an instruction to navigate to varous components.
+
+//`npm install --save react-router-demo@5.2.0`
