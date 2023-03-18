@@ -108,3 +108,19 @@ Install react-router-dom to route different URLs to different pages in our React
 
 
 ![Install react rounter references](https://github.com/jitendrasoni/MERNStack/blob/main/Setup/React/image/006%20Package%20Information.png?raw=true)
+
+5. Error - bootstrap/dist/css/boostrap.min.css can't resolved
+
+//image
+
+oh! I foound the path, basically all the modules installed under the node_modules so I have updated the correct path.
+
+
+C:\projects\personal\MERNStack\frontend\node_modules\bootstrap\dist\css\bootstrap.min.css
+
+I found the answer help here, always thanks to stachoverflow
+https://stackoverflow.com/a/67655500/4253729
+
+now, I can see the result
+
+//image
