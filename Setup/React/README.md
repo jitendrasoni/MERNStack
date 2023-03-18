@@ -111,7 +111,7 @@ Install react-router-dom to route different URLs to different pages in our React
 
 5. Error - bootstrap/dist/css/boostrap.min.css can't resolved
 
-//image
+![Error](https://github.com/jitendrasoni/MERNStack/blob/main/Setup/React/image/007%20Error.png?raw=true)
 
 oh! I foound the path, basically all the modules installed under the node_modules so I have updated the correct path.
 
@@ -123,4 +123,4 @@ https://stackoverflow.com/a/67655500/4253729
 
 now, I can see the result
 
-//image
+![Error Fix ](https://github.com/jitendrasoni/MERNStack/blob/main/Setup/React/image/008%20Final%20Result.png?raw=true)
