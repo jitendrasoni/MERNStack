@@ -124,3 +124,23 @@ https://stackoverflow.com/a/67655500/4253729
 now, I can see the result
 
 ![Error Fix ](https://github.com/jitendrasoni/MERNStack/blob/main/Setup/React/image/008%20Final%20Result.png?raw=true)
+
+6. create navigation header bar
+
+first create a components folder under the src folder, we will create four new components
+
+movies-list.js
+movie.js
+add-review.js
+login.js
+
+Add these references in App.js
+
+import AddReview from './components/add-review' 
+import MovieList from './components/movie-list'
+import Movie from './components/movie'
+import Login from './components/login'
+
+7. Setup navbar 
+
+https://react-bootstrap.github.io/components/navbar/
